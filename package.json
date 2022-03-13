@@ -1,0 +1,27 @@
+{
+  "name": "font-news-blog",
+  "version": "1.0.0",
+  "description": "its fonts news blog site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rakesh-barman/font-news-blog.git"
+  },
+  "keywords": [
+    "fonts",
+    "news",
+    "blog"
+  ],
+  "author": "rakesh barman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rakesh-barman/font-news-blog/issues"
+  },
+  "homepage": "https://github.com/rakesh-barman/font-news-blog#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

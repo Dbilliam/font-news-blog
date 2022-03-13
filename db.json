@@ -1,0 +1,94 @@
+{
+    "news":[
+        {
+            "id": 0,
+            "title": "Helvetica (Max Miedinger, 1957)",
+            "discription": "Helvetica is arguably the most famous typeface on the planet. Originally designed by Swiss designer Max Miedinger in 1957, this classic typeface has been used everywhere since its birth in the 1950s up to this day.",
+            "image": "https://cdn.lifehack.org/wp-content/uploads/2016/07/20054824/11.png",
+            "tags": "Font News",
+            "date": "March 2022"
+        },
+        {
+            "id": 1,
+            "title": "Baskerville (John Baskerville, 1757)",
+            "discription": "Unimpressed by the contemporary ‘Caslon’ typefaces, John Baskerville began to cut his own typefaces to improve his printed works in 1950 and it officially came out in 1757 in Birmingham as a transitional serif typeface (positioned between old- style Caslon typefaces and modern style Bodoni and Didot) with the lower cases featuring almost horizontal serifs and great contrast.",
+            "image": "https://cdn.lifehack.org/wp-content/uploads/2016/07/20054836/21.png",
+            "tags": "Font News",
+            "date": "March 2022"
+        },
+        {
+            "id": 2,
+            "title": "Times (Stanley Morison, 1931)",
+            "discription": "William Lints-Smith, the manager of a London daily newspaper ‘The Times’ in 1929, heard that the much-respected typographer Stanley Morison was unimpressed by the printing quality of his newspaper.",
+            "image": "https://cdn.lifehack.org/wp-content/uploads/2016/07/21064947/32.png",
+            "tags": "Font News",
+            "date": "March 2022"
+        },
+        {
+            "id": 3,
+            "title": "Akzidenz Grotesk (Brethold Type Foundry, 1896)",
+            "discription": "Helvetica is arguably the most famous typeface on the planet. Originally designed by Swiss designer Max Miedinger in 1957, this classic typeface has been used everywhere since its birth in the 1950s up to this day.",
+            "image": "https://cdn.lifehack.org/wp-content/uploads/2016/07/20054924/4.png",
+            "tags": "Font News",
+            "date": "March 2022"
+        },
+        {
+            "id": 4,
+            "title": "Gotham (Hoefler and Frere- Jones, 2000)",
+            "discription": "Released in 2000, Gotham is the adaptation of 20th century American Sign maker’s ‘Gothic’. Over the last 16 years, it has become largely popular among the designers for its clean and modern looks.",
+            "image": "https://cdn.lifehack.org/wp-content/uploads/2016/07/20054953/5.png",
+            "tags": "Font News",
+            "date": "March 2022"
+        },
+        {
+            "id": 5,
+            "title": "Bodoni (Giambattista Bodoni, 1790)",
+            "discription": "Giambattista Bodoni designed this serif typeface in the late 18th century at the palace of Duke Ferdinand of Bourbon-Parma who greatly admired Bodoni’s craft and gave him permission to build a private printing office at his palace.",
+            "image": "https://cdn.lifehack.org/wp-content/uploads/2016/07/20061506/6.png",
+            "tags": "Font News",
+            "date": "March 2022"
+        },
+        {
+            "id": 6,
+            "title": "Futura (Paul Renner, 1927)",
+            "discription": "Futura was designed by Paul Renner in the 1920s in Germany and since its birth, Futura has become the benchmark of geometric sans for over 80 years with its remarkable shapes.",
+            "image": "https://cdn.lifehack.org/wp-content/uploads/2016/07/20061634/8.png",
+            "tags": "Font News",
+            "date": "March 2022"
+        },
+        {
+            "id": 7,
+            "title": "Gill Sans (Eric Gill, 1928)",
+            "discription": "This quintessentially English Font was produced by Monotype Corporation and designed by Eric Gill in 1928. Eric Gill worked with Edward Johnston, so Gill’s attempt to design this most legible sans serif font is largely influenced by Johnston, who designed the Johnston Font for the London Underground.",
+            "image": "https://cdn.lifehack.org/wp-content/uploads/2016/07/20061726/9.png",
+            "tags": "Font News",
+            "date": "March 2022"
+        },
+        {
+            "id": 8,
+            "title": "Frutiger (Adrian Frutiger, 1977)",
+            "discription": "This timeless classic was designed by the famous Adrian Frutiger in 1977 to draw the signage for an airport newly being constructed in Paris. Adrian Frutiger had already released his successful typeface, Univers, in 1957 but he found it too compact and geometric to be read on signs. Thus, Frutiger was born, which Adrian Frutiger himself thinks is “banal and beautiful”.",
+            "image": "https://cdn.lifehack.org/wp-content/uploads/2016/07/20061801/10.png",
+            "tags": "Font News",
+            "date": "March 2022"
+        },
+        {
+            "id": 9,
+            "title": "Franklin Gothic (Morris Fuller Benton, 1903)",
+            "discription": "Created by Morris Fuller Benton in 1903 in America, Franklin Gothic was redrawn in 1980 and the updated version came out in 1991 with a broad range of weights. This font of realist sans serif category boasts more characters than any other of its family and its boldness is loved by many designers.",
+            "image": "https://cdn.lifehack.org/wp-content/uploads/2016/07/20063906/13.png",
+            "tags": "Font News",
+            "date": "March 2022"
+        },
+        {
+            "id": 10,
+            "title": "Sabon (Jan Tschichold, 1966)",
+            "discription": "Sabon was created by Jan Tschichold, a renowned Swiss graphic designer as well as type designer, in 1966 from both Monotype and Linotype machines. Tschichold has contributed a lot to modern graphics design and given many good fonts to the typographic world but this old-style serif is what stands out from all his works and is widely popular.",
+            "image": "https://cdn.lifehack.org/wp-content/uploads/2016/07/20063919/14.png",
+            "tags": "Font News",
+            "date": "March 2022"
+        }
+
+
+    ]
+}
